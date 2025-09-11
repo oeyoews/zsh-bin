@@ -1,5 +1,11 @@
 # zsh-bin
 
+## offline install
+
+```bash
+./install -f ./src/zsh-5.8-linux-aarch.tar.gz
+```
+
 > Statically-linked, hermetic, relocatable Zsh.
 
 - The latest version of Zsh.
