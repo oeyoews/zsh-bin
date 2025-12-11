@@ -4,7 +4,7 @@
 
 ```bash
 # arm
-./install -f ./src/zsh-5.8-linux-aarch.tar.gz
+./install -f ./src/zsh-5.8-linux-aarch64.tar.gz
 # x86_64
 ./install -f ./src/zsh-5.8.tar.gz
 # chsh /usr/xxx
